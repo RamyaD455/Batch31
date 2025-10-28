@@ -7,6 +7,7 @@ public class SampleTest {  //class name should end with test bcz we are using @T
 	public void appleTest()
 	{
 		System.out.println("apple tested");
+		System.out.println("grapes tested");
 	}
 
 }
